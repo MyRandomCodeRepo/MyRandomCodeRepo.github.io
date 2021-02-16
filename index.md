@@ -1,8 +1,8 @@
 ## Welcome to MyRandomCodeRepo
 
-You can use the [editor on GitHub](https://github.com/MyRandomCodeRepo/MyRandomCodeRepo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Here I could have all kinds of notes from my hacking adventures.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm sure there are tutorials on how to edit the pages in very cools ways...this is just an example.
 
 ### Markdown
 
